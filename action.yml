@@ -1,10 +1,10 @@
 name: "Podcast Generator"
-author: "Sayantan Mukherjee"
+author: "Say2hub"
 description: "Generates feed for podcast"
 runs:
   using: "docker"
   image: "Dockerfile"
-branching:
+branding:
   icon: "git-branch"
   color: "red"
 inputs:
